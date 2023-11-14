@@ -1,6 +1,7 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1699893964
+::res://::1699979680
 icon.svg::CompressedTexture2D::6982284808618428093::1699893387::1699893394::1::::<><>::
+README.md::TextFile::-1::1699894552::0::1::::<><>::
 ::res://Assets/::1699893457
 Example 5 ( Old Version).png::CompressedTexture2D::8032023342099011989::1699893274::1699893457::1::::<><>::
 LICENSE.txt::TextFile::-1::1699893274::0::1::::<><>::
@@ -1335,7 +1336,8 @@ Menu10.wav::AudioStreamWAV::7585868716113198973::1699893296::1699893465::1::::<>
 Menu11.wav::AudioStreamWAV::5517492443564044418::1699893296::1699893465::1::::<><>::
 Menu12.wav::AudioStreamWAV::4051998528454084444::1699893296::1699893465::1::::<><>::
 ::res://Scenes/::1699893926
-::res://Scenes/Player/::1699893945
-player.tscn::PackedScene::3848476868620030046::1699893945::0::1::::<><>::uid://lfkgacffdc1f::::res://Assets/Actor/Characters/GreenNinja/SpriteSheet.png
-::res://Scenes/Worlds/::1699893946
-world.tscn::PackedScene::2290292206662138430::1699893946::0::1::::<><>::uid://bu3h37vpdg2ow::::res://Scenes/Player/player.tscn
+::res://Scenes/Player/::1699894663
+player.gd::GDScript::-1::1699894214::0::1::::<>CharacterBody2D<>::
+player.tscn::PackedScene::3848476868620030046::1699894663::0::1::::<><>::uid://lfkgacffdc1f::::res://Assets/Actor/Characters/GreenNinja/SpriteSheet.png
+::res://Scenes/Worlds/::1699894333
+world.tscn::PackedScene::2290292206662138430::1699894333::0::1::::<><>::uid://bu3h37vpdg2ow::::res://Scenes/Player/player.tscn<>res://Scenes/Player/player.gd
