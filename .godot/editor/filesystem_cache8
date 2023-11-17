@@ -1,5 +1,5 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1700075659
+::res://::1700089747
 icon.svg::CompressedTexture2D::6982284808618428093::1700063789::1700063789::1::::<><>::
 README.md::TextFile::-1::1700063789::0::1::::<><>::
 ::res://Assets/::1700063903
@@ -1338,9 +1338,9 @@ Menu9.wav::AudioStreamWAV::7496395982004154422::1700063789::1700063894::1::::<><
 Menu10.wav::AudioStreamWAV::7585868716113198973::1700063789::1700063894::1::::<><>::
 Menu11.wav::AudioStreamWAV::5517492443564044418::1700063789::1700063894::1::::<><>::
 Menu12.wav::AudioStreamWAV::4051998528454084444::1700063789::1700063894::1::::<><>::
-::res://Scenes/::1700063789
-::res://Scenes/Player/::1700067301
-player.gd::GDScript::-1::1700064305::0::1::::<>CharacterBody2D<>::
-player.tscn::PackedScene::3848476868620030046::1700067301::0::1::::<><>::uid://bqxyi11b5d8ww::::res://Assets/Custom/Aiden.png
-::res://Scenes/Worlds/::1700069012
-world.tscn::PackedScene::2290292206662138430::1700069012::0::1::::<><>::uid://bobjp53hdnwpw::::res://Assets/Defaults/Backgrounds/Tilesets/TilesetFloor.png<>uid://bu3h37vpdg2ow::::res://Scenes/Player/player.tscn<>res://Scenes/Player/player.gd
+::res://Scenes/::1700081068
+::res://Scenes/Player/::1700087578
+player.gd::GDScript::-1::1700084417::0::1::::<>CharacterBody2D<>::
+player.tscn::PackedScene::3848476868620030046::1700087578::0::1::::<><>::uid://bqxyi11b5d8ww::::res://Assets/Custom/Aiden.png
+::res://Scenes/Worlds/::1700087444
+world.tscn::PackedScene::2290292206662138430::1700087444::0::1::::<><>::uid://bobjp53hdnwpw::::res://Assets/Defaults/Backgrounds/Tilesets/TilesetFloor.png<>uid://bu3h37vpdg2ow::::res://Scenes/Player/player.tscn<>uid://fkfb5qtseqlt::::res://Assets/Defaults/Backgrounds/Tilesets/TilesetNature.png<>res://Scenes/Player/player.gd
