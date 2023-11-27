@@ -2796,7 +2796,11 @@ texture = ExtResource("1_olcig")
 17:13/0 = 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 17:13/0/y_sort_origin = -12
+=======
+17:13/0/y_sort_origin = -7
+>>>>>>> 01f5a8992d1e894936aedc30c941af34a2ec30d0
 =======
 17:13/0/y_sort_origin = -7
 >>>>>>> 01f5a8992d1e894936aedc30c941af34a2ec30d0
@@ -2809,7 +2813,11 @@ texture = ExtResource("1_olcig")
 18:13/0 = 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 18:13/0/y_sort_origin = -12
+=======
+18:13/0/y_sort_origin = -7
+>>>>>>> 01f5a8992d1e894936aedc30c941af34a2ec30d0
 =======
 18:13/0/y_sort_origin = -7
 >>>>>>> 01f5a8992d1e894936aedc30c941af34a2ec30d0
@@ -2822,7 +2830,11 @@ texture = ExtResource("1_olcig")
 19:13/0 = 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 19:13/0/y_sort_origin = -12
+=======
+19:13/0/y_sort_origin = -7
+>>>>>>> 01f5a8992d1e894936aedc30c941af34a2ec30d0
 =======
 19:13/0/y_sort_origin = -7
 >>>>>>> 01f5a8992d1e894936aedc30c941af34a2ec30d0
@@ -3235,9 +3247,12 @@ script = ExtResource("2_hj0fx")
 [node name="Camera2D" type="Camera2D" parent="TileMap/Player"]
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 position = Vector2(-2, 1)
 zoom = Vector2(10, 10)
 =======
+=======
+>>>>>>> 01f5a8992d1e894936aedc30c941af34a2ec30d0
 =======
 >>>>>>> 01f5a8992d1e894936aedc30c941af34a2ec30d0
 zoom = Vector2(5.18, 5.18)

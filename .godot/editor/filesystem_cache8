@@ -1,6 +1,7 @@
 ea4bc82a6ad023ab7ee23ee620429895
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ::res://::1701050104
 icon.svg::CompressedTexture2D::6982284808618428093::1700063789::1700063789::1::::<><>::
 README.md::TextFile::-1::1700063789::0::1::::<><>::
@@ -1351,6 +1352,8 @@ world.tscn::PackedScene::2290292206662138430::1701050083::0::1::::<><>::uid://bo
 =======
 =======
 >>>>>>> 01f5a8992d1e894936aedc30c941af34a2ec30d0
+=======
+>>>>>>> 01f5a8992d1e894936aedc30c941af34a2ec30d0
 ::res://::1700238716
 icon.svg::CompressedTexture2D::6982284808618428093::1700238698::1700238698::1::::<><>::
 README.md::TextFile::-1::1700238698::0::1::::<><>::
@@ -2697,6 +2700,9 @@ player.tscn::PackedScene::3848476868620030046::1700238698::0::1::::<><>::uid://b
 ::res://Scenes/Worlds/::1700238698
 world.tscn::PackedScene::2290292206662138430::1700238698::0::1::::<><>::uid://bobjp53hdnwpw::::res://Assets/Defaults/Backgrounds/Tilesets/TilesetFloor.png<>uid://bu3h37vpdg2ow::::res://Scenes/Player/player.tscn<>uid://fkfb5qtseqlt::::res://Assets/Defaults/Backgrounds/Tilesets/TilesetNature.png<>res://Scenes/Player/player.gd
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 01f5a8992d1e894936aedc30c941af34a2ec30d0
+=======
 >>>>>>> 01f5a8992d1e894936aedc30c941af34a2ec30d0
 =======
 >>>>>>> 01f5a8992d1e894936aedc30c941af34a2ec30d0
